@@ -1,0 +1,9 @@
+hostapd
+dnsmasq
+airmon-ng (package from aircrack-ng)
+airodump-ng (package from aircrack-ng)
+Apache2 HTTP Server
+PHP
+JavaScript (jQuery)
+HTML/CSS
+Linux Bash/Shell Script
